@@ -15,3 +15,5 @@
 * Code is optimized using OMP library for multithreading if the number of polygons are greater than 10. (For just Intersection function to let you know about my ability).
 
 * Comments are just provided for main.cpp i can provide it for other files but i am not considering it as necessary.
+
+* If shell script is not working use  $ chmod +x script.sh to provide the permissions.
